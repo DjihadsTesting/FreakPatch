@@ -1,23 +1,25 @@
 <div align="center">
 <a href="https://github.com/bmax121/APatch/releases/latest"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&mask=circle" style="width: 128px;" alt="logo"></a>
 
-<h1 align="center">APatch</h1>
+<h1 align="center">FreakPatch</h1>
 
-[![Latest Release](https://img.shields.io/github/v/release/bmax121/APatch?label=Release&logo=github)](https://github.com/bmax121/APatch/releases/latest)
-[![Nightly Release](https://img.shields.io/badge/Nightly%20release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/bmax121/APatch/workflows/build/main/APatch)
-[![Weblate](https://img.shields.io/badge/Localization-Weblate-teal?logo=weblate)](https://hosted.weblate.org/engage/APatch)
+[![Latest Release](https://img.shields.io/github/v/release/bmax121/APatch?label=Release&logo=github)](https://github.com/Djihads1/FreakPatch/releases/latest)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/APatchGroup)
 [![GitHub License](https://img.shields.io/github/license/bmax121/APatch?logo=gnu)](/LICENSE)
 
 </div>
 
-The patching of Android kernel and Android system.
+The patching of Android kernel and Android system, but its 𝓯𝓻𝓮𝓪𝓴𝔂.
 
-- A new kernel-based root solution for Android devices.
+- A 𝓯𝓻𝓮𝓪𝓴𝔂 kernel-based root solution for Android devices.
 - APM: Support for modules similar to Magisk.
 - KPM: Support for modules that allow you to inject any code into the kernel (Requires kernel function `inline-hook` and `syscall-table-hook` enabled).
-- APatch relies on [KernelPatch](https://github.com/bmax121/KernelPatch/).
-- The APatch UI and the APModule source code have been derived and modified from [KernelSU](https://github.com/tiann/KernelSU).
+- FreakPatch relies on [KernelPatch](https://github.com/bmax121/KernelPatch/).
+- The FreakPatch UI and the APModule source code have been derived and modified from [KernelSU](https://github.com/tiann/KernelSU).
+
+## Why
+
+<a href="https://www.youtube.com/watch?v=z6bC9QtgMtk"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/.github/freakbob.jfif&mask=circle" style="width: 128px;" alt="logo"></a>
 
 ## Supported Versions
 
@@ -39,16 +41,6 @@ Kernel configs:
 The **SuperKey** has higher privileges than root access.  
 Weak or compromised keys can lead to unauthorized control of your device.  
 It is critical to use robust keys and safeguard them from exposure to maintain the security of your device.
-
-## Translation
-
-To help translate APatch or improve existing translations, please use [Weblate](https://hosted.weblate.org/engage/apatch/). PR of APatch translation is no longer accepted, because it will conflict with Weblate.
-
-<div align="center">
-
-[![Translation Status](https://hosted.weblate.org/widget/APatch/open-graph.png)](https://hosted.weblate.org/engage/APatch/)
-
-</div>
 
 ## Get Help
 
