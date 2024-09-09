@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/bmax121/APatch/releases/latest"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/bmax121/APatch/main/app/src/main/ic_launcher-playstore.png&mask=circle" style="width: 128px;" alt="logo"></a>
+<a href="https://github.com/bmax121/APatch/releases/latest"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&mask=circle" style="width: 128px;" alt="logo"></a>
 
 <h1 align="center">APatch</h1>
 
