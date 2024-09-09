@@ -19,7 +19,7 @@ The patching of Android kernel and Android system, but its 𝓯𝓻𝓮𝓪𝓴�
 
 ## Why
 
-<a href="https://www.youtube.com/watch?v=z6bC9QtgMtk"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/freakbob.png&mask=circle" style="width: 128px;" alt="logo"></a>
+<a href="https://www.youtube.com/watch?v=z6bC9QtgMtk"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/freakbob.png" alt="freakbob"></a>
 
 ## Supported Versions
 
