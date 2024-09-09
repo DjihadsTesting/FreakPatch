@@ -46,29 +46,17 @@ It is critical to use robust keys and safeguard them from exposure to maintain t
 
 ### Usage
 
-For usage, please refer to [our official documentation](https://apatch.dev).  
+For usage, please refer to [the APatch official documentation](https://apatch.dev).  
 It's worth noting that the documentation is currently not quite complete, and the content may change at any time.  
-Furthermore, we need more volunteers to [contribute to the documentation](https://github.com/AndroidPatch/APatchDocs) in other languages.
 
-### Updates
-
-- Telegram Channel: [@APatchUpdates](https://t.me/APatchChannel)
-
-### Discussions
-
-- Telegram Group: [@APatchDiscussions(EN/CN)](https://t.me/Apatch_discuss)
-- Telegram Group: [中文](https://t.me/APatch_CN_Group)
-
-### More Information
-
-- [Documents](docs/)
 
 ## Credits
 
 - [KernelPatch](https://github.com/bmax121/KernelPatch/): The core.
 - [Magisk](https://github.com/topjohnwu/Magisk): magiskboot and magiskpolicy.
 - [KernelSU](https://github.com/tiann/KernelSU): App UI, and Magisk module like support.
+- [APatch](https://github.com/bmax121/APatch): Android Patch
 
 ## License
 
-APatch is licensed under the GNU General Public License v3 [GPL-3](http://www.gnu.org/copyleft/gpl.html).
+FreakPatch is licensed under the GNU General Public License v3 [GPL-3](http://www.gnu.org/copyleft/gpl.html).
