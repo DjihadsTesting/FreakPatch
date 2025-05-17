@@ -1,3 +1,6 @@
+> [!WARNING]
+> This Project is archived, even thought it never got a working build i am still not continuing this because it was a one-off inside joke that died after a week or two
+
 <div align="center">
 <a href="https://github.com/Djihads1/FreakPatch/releases/latest"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Djihads1/FreakPatch/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&mask=circle" style="width: 128px;" alt="logo"></a>
 
